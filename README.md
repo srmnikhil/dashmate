@@ -27,7 +27,7 @@ DashMate provides an elegant way to track, visualize, and manage data with real-
 
 ## 🌐 Demo  
 
-👉 [Live Demo on Vercel](https://your-deployed-link.vercel.app)  
+👉 [Live Demo on Vercel](https://dash-mate.vercel.app)  
 
 ---
 
@@ -35,7 +35,7 @@ DashMate provides an elegant way to track, visualize, and manage data with real-
 
 | Home Page | Dashboard | Profile | About Page |
 |-----------|-----------|---------|------------|
-| ![Home](screenshots/home.png) | ![Dashboard](screenshots/dashboard.png) | ![Profile](screenshots/profile.png) | ![About](screenshots/about.png) |
+| ![Home(src/assets/screenshots/home.png)](https://dash-mate.vercel.app) | ![Dashboard(src/assets/screenshots/dashboard.png)](https://dash-mate.vercel.app/dashboard) | ![Login(ssrc/assets/creenshots/login.png)](https://dash-mate.vercel.app/login) | ![About(src/assets/screenshots/about.png)](https://dash-mate.vercel.app/login) |
 
 ---
 
@@ -76,7 +76,3 @@ npm start
 - This project is **open-source** and free to use for personal or commercial purposes.
 
 ---
-
-If you want, I can also make a **more visually appealing version** with badges for React, Tailwind, MUI, and NPM, so your GitHub looks extra professional.  
-
-Do you want me to do that?
