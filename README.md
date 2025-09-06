@@ -1,4 +1,4 @@
-# DashMate  
+# <img src="public/logo.svg" alt="DashMate Logo" width="25" height="25" /> DashMate
 
 <p align="center">
   <a href="https://react.dev/"><img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" alt="React"/></a>
