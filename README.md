@@ -33,9 +33,7 @@ DashMate provides an elegant way to track, visualize, and manage data with real-
 
 ## 📸 Screenshots  
 
-| Home Page | Dashboard | Login | About Page |
-|-----------|-----------|---------|------------|
-| ![Home](src/assets/screenshots/home.png) | ![Dashboard](src/assets/screenshots/dashboard.png) | ![Login](src/assets/screenshots/login.png) | ![About](src/assets/screenshots/about.png) |
+[![Home Page](src/assets/screenshots/home.png)](https://dash-mate.vercel.app) [![Login Page](src/assets/screenshots/login.png)](https://dash-mate.vercel.app/login) [![Dashboard](src/assets/screenshots/dashboard.png)](https://dash-mate.vercel.app/dashboard) [![About Page](src/assets/screenshots/about.png)](https://dash-mate.vercel.app/about)
 
 ---
 
