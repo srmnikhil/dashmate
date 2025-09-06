@@ -78,12 +78,12 @@ export default function ResponsiveDashboard() {
   ];
 
   return (
-    <div className="flex min-h-screen w-full bg-gray-100">
+    <div className="flex min-h-screen w-full">
       <CssBaseline />
 
       {/* Sidebar */}
       <div
-        className={`bg-black text-white transition-all duration-500 flex-shrink-0`}
+        className={`bg-black text-white transition-all duration-500 flex-shrink-0 ${sidebarOpen ? "z-1" : "-z-1"}`}
         style={{ width: sidebarOpen ? sidebarWidth : 0 }}
       >
         <div
@@ -219,7 +219,7 @@ export default function ResponsiveDashboard() {
         </AppBar>
 
         {/* Main Dashboard Content with Nested Routes */}
-        <main className="p-6 flex-1 bg-gray-50 flex flex-col">
+        <main className="p-6 flex-1 flex flex-col">
           <Routes>
             <Route path="*" element={<DashboardContent />} />
             <Route path="profile" element={<Profile />} />
