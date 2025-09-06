@@ -9,10 +9,10 @@ import About from "./pages/About";
 
 function App() {
   return (
-    <div className="flex min-h-screen bg-gradient-to-br from-blue-200 via-white to-purple-200">
+    <div className="flex min-h-screen w-full bg-gradient-to-br from-blue-200 via-white to-purple-200">
       {/* Fancy background blobs */}
-      <div className="absolute top-20 left-10 w-100 h-100 bg-purple-300 rounded-full mix-blend-multiply filter blur-3xl opacity-30 animate-pulse"></div>
-      <div className="absolute bottom-20 right-10 w-100 h-100 bg-purple-300 rounded-full mix-blend-multiply filter blur-3xl opacity-30 animate-pulse"></div>
+      <div className="absolute top-20 left-10 w-80 h-80 bg-purple-300 rounded-full mix-blend-multiply filter blur-3xl opacity-30 animate-pulse"></div>
+      <div className="absolute bottom-20 right-10 w-80 h-80 bg-purple-300 rounded-full mix-blend-multiply filter blur-3xl opacity-30 animate-pulse"></div>
 
       <Routes>
         {/* Public only → login/signup */}
@@ -27,9 +27,7 @@ function App() {
         <Route
           path="/login"
           element={
-            <PublicRoute>
               <Login />
-            </PublicRoute>
           }
         />
         <Route

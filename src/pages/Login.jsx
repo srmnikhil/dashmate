@@ -92,7 +92,7 @@ const LoginSignupPage = () => {
   };
 
   return (
-    <div className="flex justify-center items-center min-h-screen w-full">
+    <div className="flex justify-center w-full items-center min-h-screen">
       <div className="bg-white/80 backdrop-blur-lg border border-white/30 shadow-2xl rounded-xl w-[35%] min-w-[22rem] p-16">
         {/* Title */}
         <Typography

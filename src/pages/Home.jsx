@@ -26,7 +26,7 @@ export default function Home() {
             stunning.
           </p>
 
-          <div className="mt-5 flex mb-10 sm:flex-row gap-4">
+          <div className="mt-5 flex sm:flex-row gap-4">
             <Button
               onClick={() => navigate("/login")}
               label="Get Started"
@@ -51,7 +51,7 @@ export default function Home() {
         </div>
       </div>
 
-      <p className="mt-12 mb-10  text-sm text-gray-400">
+      <p className="mt-12 text-sm text-gray-400">
         Built with ❤️ using React + Tailwind
       </p>
     </div>
