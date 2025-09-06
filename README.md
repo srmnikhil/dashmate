@@ -37,7 +37,7 @@ DashMate provides an elegant way to track, visualize, and manage data with real-
 
 ---
 
-## Installation
+## ⚙️ Installation
 
 1. Clone the repository:
 
@@ -58,19 +58,19 @@ npm start
 ```
 
 
-## Technologies Used
+## 🛠️ Technologies Used
 - **React** - Frontend library for building the UI.
 - **Tailwind CSS** - Utility-first CSS for styling.
 - **Material-UI (MUI)** - Components for inputs and progress bars.
 - **React Router** - Navigation between pages.
 
-## About the Developer
+## 👨‍💻 About the Developer
 - **Nikhil Sharma** - Full Stack Developer (MERN Stack)
 - [LinkedIn](https://linkedin.com/in/srmnikhil)
 - [GitHub](https://github.com/srmnikhil)
 - Email: srmnikhilswn@gmail.com
 
-## License
+## 📜 License
 - This project is **open-source** and free to use for personal or commercial purposes.
 
 ---
