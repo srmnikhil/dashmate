@@ -28,7 +28,7 @@ export default function Home() {
 
           <div className="mt-5 flex mb-10 sm:flex-row gap-4">
             <Button
-              onClick={() => navigate("/form")}
+              onClick={() => navigate("/login")}
               label="Get Started"
               className="bg-indigo-600 hover:bg-indigo-700 px-5 py-2 text-base sm:px-8 sm:py-3 sm:text-lg rounded-full shadow-lg transition-all duration-300 transform hover:scale-105 hover:shadow-xl"
             />
