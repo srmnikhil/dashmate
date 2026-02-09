@@ -15,7 +15,7 @@ DashMate provides an elegant way to track, visualize, and manage data with real-
 
 ## ✨ Features  
 
-- 📊 **Interactive Charts** – Visualize user activity with tooltips, legends, and responsive designs.  
+- 📊 **Interactive Chart** – Visualize user activity with tooltips, legends, and responsive designs.  
 - 🧑‍🎨 **User Profiles** – Manage and view user details in a clean, organized interface.  
 - 🔔 **Notification Dropdown** – Get instant access to alerts and updates.  
 - 📱 **Fully Responsive** – Optimized for mobile, tablet, and desktop.  
